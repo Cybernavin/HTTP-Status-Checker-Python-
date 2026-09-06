@@ -12,13 +12,6 @@ Displays common HTTP status codes:
 500 Internal Server Error
 502 Bad Gateway
 
-Status	URL
-200	https://httpstat.us/200
-301	https://httpstat.us/301
-302	https://httpstat.us/302
-403	https://httpstat.us/403
-404	https://httpstat.us/404
-500	https://httpstat.us/500
 
 Future Improvements
 Display response time.
