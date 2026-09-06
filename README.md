@@ -5,11 +5,17 @@ Automatically accepts URLs with or without http:// or https://
 Tries HTTPS first, then falls back to HTTP
 Displays common HTTP status codes:
 200 OK
+
 301 Moved Permanently
+
 302 Found
+
 403 Forbidden
+
 404 Not Found
+
 500 Internal Server Error
+
 502 Bad Gateway
 
 
