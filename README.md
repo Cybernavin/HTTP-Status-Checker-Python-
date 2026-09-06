@@ -19,6 +19,7 @@ Status	URL
 403	https://httpstat.us/403
 404	https://httpstat.us/404
 500	https://httpstat.us/500
+
 Future Improvements
 Display response time.
 Show server banner (Server header).
